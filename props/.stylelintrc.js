@@ -3,6 +3,6 @@ module.exports = {
   plugins: ['stylelint-order'],
   ignoreFiles: ['**/node_modules/**'],
   rules: {
-    'style-quotes': 'single',
+    'string-quotes': 'single',
   },
 };
