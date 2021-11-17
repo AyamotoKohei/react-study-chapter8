@@ -7,6 +7,7 @@
 
 targetProjects=(
   "props/"
+  "state/class"
 )
 
 # execute each test
