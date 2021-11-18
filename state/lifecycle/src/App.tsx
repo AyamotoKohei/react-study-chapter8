@@ -47,6 +47,7 @@ class App extends Component<unknown, State> {
           <Card.Content>
             <Button color="red" fluid onClick={this.reset}>
               <Icon name="redo" />
+              Reset
             </Button>
           </Card.Content>
         </Card>
